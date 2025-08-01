@@ -20,7 +20,7 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://esm.sh/pdfjs-dist@4.5.136/buil
 //  SEGURANÇA. Qualquer pessoa que acessar o site poderá ver e usar sua chave.
 // ===================================================================================
 // ===================================================================================
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 
 // --- Ícones SVG ---
